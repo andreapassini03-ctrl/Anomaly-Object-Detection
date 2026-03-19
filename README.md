@@ -8,8 +8,8 @@ Tesi & Mobile AI: Ricerca su modelli LiteRT e sviluppo di un'app Android nativa 
 - **[`./TesiClassificazioneImmagini`](https://github.com/andreapassini03-ctrl/Anomaly-Object-Detection/tree/main/TesiClassificazioneImmagini)**: codice sorgente dell'app Android nativa per la classificazione e rilevamento anomalie/oggetti.
 - **[`modelli/`](https://github.com/andreapassini03-ctrl/Anomaly-Object-Detection/tree/main/modelli)**: modelli TensorFlow Lite ottimizzati (`.tflite`).
 - **[`scripts/`](https://github.com/andreapassini03-ctrl/Anomaly-Object-Detection/tree/main/scripts)**: script Python per ottimizzazione, addestramento e data augmentation dei modelli.
-- **`Presentazione Tesi.pdf`**: presentazione della tesi.
-- **`TESI.pdf`**: documento completo della tesi.
+- **[`Presentazione Tesi.pdf`](https://github.com/andreapassini03-ctrl/Anomaly-Object-Detection/blob/main/Presentazione%20Tesi.pdf)**: presentazione della tesi.
+- **[`TESI.pdf`](https://github.com/andreapassini03-ctrl/Anomaly-Object-Detection/blob/main/TESI.pdf)**: documento completo della tesi.
 
 
 ## How to run (Android)
