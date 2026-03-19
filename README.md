@@ -28,7 +28,7 @@ Per eseguire l'applicazione su un telefono Android:
 	- Attiva il debug USB nelle impostazioni sviluppatore del telefono.
 
 4. **Compila e installa l'app**
-	- Premi il pulsante "Run" (▶️) in Android Studio.
+	- Premi il pulsante "Run" in Android Studio.
 	- L'app verrà installata e avviata automaticamente sul dispositivo.
 
 5. **(Opzionale) Sostituisci/aggiorna i modelli `.tflite`**
